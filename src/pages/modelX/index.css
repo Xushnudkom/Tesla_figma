@@ -1,0 +1,16 @@
+.container{
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.modelx_img{
+    width: 800px;
+    margin-top: 140px;
+    margin-left: 240px;
+}
+.modX_but{
+    position: absolute;
+    margin-top: 610px;
+    cursor: pointer;
+    margin-left: 110px;
+}
